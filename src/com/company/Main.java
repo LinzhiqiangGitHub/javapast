@@ -8,5 +8,6 @@ public class Main {
         System.out.println("123");
         System.out.println("小星星哦");
         System.out.println("hahahah");
+	System.out.println("2222");
     }
 }
